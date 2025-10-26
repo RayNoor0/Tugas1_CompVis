@@ -83,7 +83,7 @@ def simulate_camera_calibration(image, image_name, output_dir):
         gray = cv2.cvtColor(image_bgr, cv2.COLOR_BGR2GRAY)
         
         # Parameter checkerboard (sesuaikan dengan gambar)
-        pattern_size = (8, 8)  # Internal corners
+        pattern_size = (7, 7)  # Internal corners
         
         ret, corners = cv2.findChessboardCorners(gray, pattern_size, None)
         

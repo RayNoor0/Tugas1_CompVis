@@ -5,6 +5,7 @@ coins,Perspective Transform,"(3, 3)",coins_perspective_transformed.png
 coins,Rotation 30°,"(2, 3)",coins_rotated_30deg.png
 checkerboard,Perspective Transform,"(3, 3)",checkerboard_perspective_transformed.png
 checkerboard,Rotation 30°,"(2, 3)",checkerboard_rotated_30deg.png
+checkerboard,Camera Calibration,"Camera Matrix: (3, 3)",checkerboard_calibration_corners.png
 astronaut,Perspective Transform,"(3, 3)",astronaut_perspective_transformed.png
 astronaut,Rotation 30°,"(2, 3)",astronaut_rotated_30deg.png
 personal_image,Perspective Transform,"(3, 3)",personal_image_perspective_transformed.png

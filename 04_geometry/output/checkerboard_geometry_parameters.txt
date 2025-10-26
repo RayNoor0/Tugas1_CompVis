@@ -28,3 +28,25 @@ Matriks Rotasi:
 [[  0.8660254    0.5        -36.60254038]
  [ -0.5          0.8660254   63.39745962]]
 
+3. Parameter Kalibrasi Kamera:
+Camera Matrix:
+[[800.   0. 100.]
+ [  0. 800. 100.]
+ [  0.   0.   1.]]
+
+Distortion Coefficients:
+[[0.]
+ [0.]
+ [0.]
+ [0.]]
+
+Rotation Vector:
+[[-7.09713062e-08]
+ [-3.85278623e-08]
+ [ 3.65485226e-08]]
+
+Translation Vector:
+[[-3.01999989]
+ [-3.02000011]
+ [31.99999892]]
+
