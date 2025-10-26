@@ -1,0 +1,30 @@
+--- Parameter Transformasi Geometri ---
+
+Gambar Sumber: personal_image
+Dimensi Gambar: 960 x 1280
+
+1. Transformasi Perspektif:
+Titik Sumber:
+[[   0.    0.]
+ [ 959.    0.]
+ [   0. 1279.]
+ [ 959. 1279.]]
+
+Titik Tujuan:
+[[ 144.  192.]
+ [ 816.  128.]
+ [  48. 1152.]
+ [ 912. 1088.]]
+
+Matriks Transformasi Perspektif:
+[[ 6.88216893e-01 -8.33371660e-02  1.44000000e+02]
+ [-6.86990125e-02  5.51901761e-01  1.92000000e+02]
+ [-1.53346010e-05 -1.72469300e-04  1.00000000e+00]]
+
+2. Transformasi Rotasi:
+Sudut Rotasi: 30 derajat
+Pusat Rotasi: (480, 640)
+Matriks Rotasi:
+[[   0.8660254     0.5        -255.69219382]
+ [  -0.5           0.8660254   325.74374158]]
+

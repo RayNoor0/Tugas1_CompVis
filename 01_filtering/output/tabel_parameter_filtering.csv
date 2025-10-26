@@ -35,3 +35,12 @@ astronaut,Median Blur,Kernel Size = 7x7,astronaut_median_7x7.png
 astronaut,Sobel X,"ksize = 3, dx = 1, dy = 0",astronaut_sobel_x.png
 astronaut,Sobel Y,"ksize = 3, dx = 0, dy = 1",astronaut_sobel_y.png
 astronaut,Sobel Magnitude,Magnitude of X and Y gradients,astronaut_sobel_magnitude.png
+personal_image,Gaussian Blur,"Kernel Size = (3, 3), Sigma = 0 (auto)",personal_image_gaussian_3x3.png
+personal_image,Gaussian Blur,"Kernel Size = (5, 5), Sigma = 0 (auto)",personal_image_gaussian_5x5.png
+personal_image,Gaussian Blur,"Kernel Size = (7, 7), Sigma = 0 (auto)",personal_image_gaussian_7x7.png
+personal_image,Median Blur,Kernel Size = 3x3,personal_image_median_3x3.png
+personal_image,Median Blur,Kernel Size = 5x5,personal_image_median_5x5.png
+personal_image,Median Blur,Kernel Size = 7x7,personal_image_median_7x7.png
+personal_image,Sobel X,"ksize = 3, dx = 1, dy = 0",personal_image_sobel_x.png
+personal_image,Sobel Y,"ksize = 3, dx = 0, dy = 1",personal_image_sobel_y.png
+personal_image,Sobel Magnitude,Magnitude of X and Y gradients,personal_image_sobel_magnitude.png

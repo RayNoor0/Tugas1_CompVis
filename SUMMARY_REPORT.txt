@@ -1,12 +1,12 @@
 LAPORAN RINGKASAN APLIKASI COMPUTER VISION
 ==================================================
 
-Tanggal Eksekusi: 2025-10-26 10:59:38
+Tanggal Eksekusi: 2025-10-26 11:07:19
 
 Filtering:
 --------------------
   Output directory: 01_filtering/output
-  Jumlah file: 41
+  Jumlah file: 51
   File yang dihasilkan:
     - astronaut_gaussian_3x3.png
     - astronaut_gaussian_5x5.png
@@ -48,12 +48,22 @@ Filtering:
     - coins_sobel_magnitude.png
     - coins_sobel_x.png
     - coins_sobel_y.png
+    - personal_image_gaussian_3x3.png
+    - personal_image_gaussian_5x5.png
+    - personal_image_gaussian_7x7.png
+    - personal_image_median_3x3.png
+    - personal_image_median_5x5.png
+    - personal_image_median_7x7.png
+    - personal_image_original.png
+    - personal_image_sobel_magnitude.png
+    - personal_image_sobel_x.png
+    - personal_image_sobel_y.png
     - tabel_parameter_filtering.csv
 
 Edge Detection:
 --------------------
   Output directory: 02_edge/output
-  Jumlah file: 25
+  Jumlah file: 31
   File yang dihasilkan:
     - astronaut_canny_downsampled.png
     - astronaut_canny_high_150_250.png
@@ -79,12 +89,18 @@ Edge Detection:
     - coins_canny_medium_100_200.png
     - coins_sobel_k3.png
     - coins_sobel_k5.png
+    - personal_image_canny_downsampled.png
+    - personal_image_canny_high_150_250.png
+    - personal_image_canny_low_50_150.png
+    - personal_image_canny_medium_100_200.png
+    - personal_image_sobel_k3.png
+    - personal_image_sobel_k5.png
     - tabel_parameter_edge.csv
 
 Feature Points:
 --------------------
   Output directory: 03_featurepoints/output
-  Jumlah file: 33
+  Jumlah file: 41
   File yang dihasilkan:
     - astronaut_fast_thresh_10.png
     - astronaut_fast_thresh_20.png
@@ -118,12 +134,20 @@ Feature Points:
     - coins_harris_larger_block.png
     - coins_harris_larger_kernel.png
     - coins_sift_features.png
+    - personal_image_fast_thresh_10.png
+    - personal_image_fast_thresh_20.png
+    - personal_image_fast_thresh_30.png
+    - personal_image_harris_default.png
+    - personal_image_harris_higher_k.png
+    - personal_image_harris_larger_block.png
+    - personal_image_harris_larger_kernel.png
+    - personal_image_sift_features.png
     - statistik_fitur.csv
 
 Geometry:
 --------------------
   Output directory: 04_geometry/output
-  Jumlah file: 13
+  Jumlah file: 16
   File yang dihasilkan:
     - astronaut_geometry_parameters.txt
     - astronaut_perspective_transformed.png
@@ -137,6 +161,9 @@ Geometry:
     - coins_geometry_parameters.txt
     - coins_perspective_transformed.png
     - coins_rotated_30deg.png
+    - personal_image_geometry_parameters.txt
+    - personal_image_perspective_transformed.png
+    - personal_image_rotated_30deg.png
     - tabel_parameter_geometry.csv
 
 CATATAN:

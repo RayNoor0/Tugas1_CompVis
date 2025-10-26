@@ -23,3 +23,9 @@ astronaut,Canny,"low_threshold = 50, high_threshold = 150",astronaut_canny_low_5
 astronaut,Canny,"low_threshold = 100, high_threshold = 200",astronaut_canny_medium_100_200.png
 astronaut,Canny,"low_threshold = 150, high_threshold = 250",astronaut_canny_high_150_250.png
 astronaut,Canny Downsampled,"low_threshold = 50, high_threshold = 150, scale = 0.5",astronaut_canny_downsampled.png
+personal_image,Sobel,ksize = 3,personal_image_sobel_k3.png
+personal_image,Sobel,ksize = 5,personal_image_sobel_k5.png
+personal_image,Canny,"low_threshold = 50, high_threshold = 150",personal_image_canny_low_50_150.png
+personal_image,Canny,"low_threshold = 100, high_threshold = 200",personal_image_canny_medium_100_200.png
+personal_image,Canny,"low_threshold = 150, high_threshold = 250",personal_image_canny_high_150_250.png
+personal_image,Canny Downsampled,"low_threshold = 50, high_threshold = 150, scale = 0.5",personal_image_canny_downsampled.png

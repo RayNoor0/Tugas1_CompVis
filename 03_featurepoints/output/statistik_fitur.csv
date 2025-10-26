@@ -31,3 +31,11 @@ astronaut,SIFT,1105,default SIFT parameters,astronaut_sift_features.png
 astronaut,FAST thresh_10,3688,threshold = 10,astronaut_fast_thresh_10.png
 astronaut,FAST thresh_20,1872,threshold = 20,astronaut_fast_thresh_20.png
 astronaut,FAST thresh_30,1110,threshold = 30,astronaut_fast_thresh_30.png
+personal_image,Harris default,35677,"blockSize=2, ksize=3, k=0.04",personal_image_harris_default.png
+personal_image,Harris larger_block,64754,"blockSize=3, ksize=3, k=0.04",personal_image_harris_larger_block.png
+personal_image,Harris larger_kernel,26683,"blockSize=2, ksize=5, k=0.04",personal_image_harris_larger_kernel.png
+personal_image,Harris higher_k,29586,"blockSize=2, ksize=3, k=0.06",personal_image_harris_higher_k.png
+personal_image,SIFT,15262,default SIFT parameters,personal_image_sift_features.png
+personal_image,FAST thresh_10,49329,threshold = 10,personal_image_fast_thresh_10.png
+personal_image,FAST thresh_20,28078,threshold = 20,personal_image_fast_thresh_20.png
+personal_image,FAST thresh_30,16562,threshold = 30,personal_image_fast_thresh_30.png

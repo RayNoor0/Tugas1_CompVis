@@ -7,3 +7,5 @@ checkerboard,Perspective Transform,"(3, 3)",checkerboard_perspective_transformed
 checkerboard,Rotation 30°,"(2, 3)",checkerboard_rotated_30deg.png
 astronaut,Perspective Transform,"(3, 3)",astronaut_perspective_transformed.png
 astronaut,Rotation 30°,"(2, 3)",astronaut_rotated_30deg.png
+personal_image,Perspective Transform,"(3, 3)",personal_image_perspective_transformed.png
+personal_image,Rotation 30°,"(2, 3)",personal_image_rotated_30deg.png
