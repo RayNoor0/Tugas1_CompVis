@@ -1,0 +1,25 @@
+Image Source,Edge Detection Method,Parameters,Output Filename
+cameraman,Sobel,ksize = 3,cameraman_sobel_k3.png
+cameraman,Sobel,ksize = 5,cameraman_sobel_k5.png
+cameraman,Canny,"low_threshold = 50, high_threshold = 150",cameraman_canny_low_50_150.png
+cameraman,Canny,"low_threshold = 100, high_threshold = 200",cameraman_canny_medium_100_200.png
+cameraman,Canny,"low_threshold = 150, high_threshold = 250",cameraman_canny_high_150_250.png
+cameraman,Canny Downsampled,"low_threshold = 50, high_threshold = 150, scale = 0.5",cameraman_canny_downsampled.png
+coins,Sobel,ksize = 3,coins_sobel_k3.png
+coins,Sobel,ksize = 5,coins_sobel_k5.png
+coins,Canny,"low_threshold = 50, high_threshold = 150",coins_canny_low_50_150.png
+coins,Canny,"low_threshold = 100, high_threshold = 200",coins_canny_medium_100_200.png
+coins,Canny,"low_threshold = 150, high_threshold = 250",coins_canny_high_150_250.png
+coins,Canny Downsampled,"low_threshold = 50, high_threshold = 150, scale = 0.5",coins_canny_downsampled.png
+checkerboard,Sobel,ksize = 3,checkerboard_sobel_k3.png
+checkerboard,Sobel,ksize = 5,checkerboard_sobel_k5.png
+checkerboard,Canny,"low_threshold = 50, high_threshold = 150",checkerboard_canny_low_50_150.png
+checkerboard,Canny,"low_threshold = 100, high_threshold = 200",checkerboard_canny_medium_100_200.png
+checkerboard,Canny,"low_threshold = 150, high_threshold = 250",checkerboard_canny_high_150_250.png
+checkerboard,Canny Downsampled,"low_threshold = 50, high_threshold = 150, scale = 0.5",checkerboard_canny_downsampled.png
+astronaut,Sobel,ksize = 3,astronaut_sobel_k3.png
+astronaut,Sobel,ksize = 5,astronaut_sobel_k5.png
+astronaut,Canny,"low_threshold = 50, high_threshold = 150",astronaut_canny_low_50_150.png
+astronaut,Canny,"low_threshold = 100, high_threshold = 200",astronaut_canny_medium_100_200.png
+astronaut,Canny,"low_threshold = 150, high_threshold = 250",astronaut_canny_high_150_250.png
+astronaut,Canny Downsampled,"low_threshold = 50, high_threshold = 150, scale = 0.5",astronaut_canny_downsampled.png

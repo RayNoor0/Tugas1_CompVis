@@ -1,0 +1,30 @@
+--- Parameter Transformasi Geometri ---
+
+Gambar Sumber: astronaut
+Dimensi Gambar: 512 x 512
+
+1. Transformasi Perspektif:
+Titik Sumber:
+[[  0.   0.]
+ [511.   0.]
+ [  0. 511.]
+ [511. 511.]]
+
+Titik Tujuan:
+[[ 76.8  76.8]
+ [435.2  51.2]
+ [ 25.6 460.8]
+ [486.4 435.2]]
+
+Matriks Transformasi Perspektif:
+[[ 6.88845368e-01 -1.11246695e-01  7.68000031e+01]
+ [-5.15713240e-02  5.52549787e-01  7.68000031e+01]
+ [-2.87787528e-05 -4.31679461e-04  1.00000000e+00]]
+
+2. Transformasi Rotasi:
+Sudut Rotasi: 30 derajat
+Pusat Rotasi: (256, 256)
+Matriks Rotasi:
+[[  0.8660254    0.5        -93.70250337]
+ [ -0.5          0.8660254  162.29749663]]
+

@@ -1,0 +1,145 @@
+LAPORAN RINGKASAN APLIKASI COMPUTER VISION
+==================================================
+
+Tanggal Eksekusi: 2025-10-26 10:59:38
+
+Filtering:
+--------------------
+  Output directory: 01_filtering/output
+  Jumlah file: 41
+  File yang dihasilkan:
+    - astronaut_gaussian_3x3.png
+    - astronaut_gaussian_5x5.png
+    - astronaut_gaussian_7x7.png
+    - astronaut_median_3x3.png
+    - astronaut_median_5x5.png
+    - astronaut_median_7x7.png
+    - astronaut_original.png
+    - astronaut_sobel_magnitude.png
+    - astronaut_sobel_x.png
+    - astronaut_sobel_y.png
+    - cameraman_gaussian_3x3.png
+    - cameraman_gaussian_5x5.png
+    - cameraman_gaussian_7x7.png
+    - cameraman_median_3x3.png
+    - cameraman_median_5x5.png
+    - cameraman_median_7x7.png
+    - cameraman_original.png
+    - cameraman_sobel_magnitude.png
+    - cameraman_sobel_x.png
+    - cameraman_sobel_y.png
+    - checkerboard_gaussian_3x3.png
+    - checkerboard_gaussian_5x5.png
+    - checkerboard_gaussian_7x7.png
+    - checkerboard_median_3x3.png
+    - checkerboard_median_5x5.png
+    - checkerboard_median_7x7.png
+    - checkerboard_original.png
+    - checkerboard_sobel_magnitude.png
+    - checkerboard_sobel_x.png
+    - checkerboard_sobel_y.png
+    - coins_gaussian_3x3.png
+    - coins_gaussian_5x5.png
+    - coins_gaussian_7x7.png
+    - coins_median_3x3.png
+    - coins_median_5x5.png
+    - coins_median_7x7.png
+    - coins_original.png
+    - coins_sobel_magnitude.png
+    - coins_sobel_x.png
+    - coins_sobel_y.png
+    - tabel_parameter_filtering.csv
+
+Edge Detection:
+--------------------
+  Output directory: 02_edge/output
+  Jumlah file: 25
+  File yang dihasilkan:
+    - astronaut_canny_downsampled.png
+    - astronaut_canny_high_150_250.png
+    - astronaut_canny_low_50_150.png
+    - astronaut_canny_medium_100_200.png
+    - astronaut_sobel_k3.png
+    - astronaut_sobel_k5.png
+    - cameraman_canny_downsampled.png
+    - cameraman_canny_high_150_250.png
+    - cameraman_canny_low_50_150.png
+    - cameraman_canny_medium_100_200.png
+    - cameraman_sobel_k3.png
+    - cameraman_sobel_k5.png
+    - checkerboard_canny_downsampled.png
+    - checkerboard_canny_high_150_250.png
+    - checkerboard_canny_low_50_150.png
+    - checkerboard_canny_medium_100_200.png
+    - checkerboard_sobel_k3.png
+    - checkerboard_sobel_k5.png
+    - coins_canny_downsampled.png
+    - coins_canny_high_150_250.png
+    - coins_canny_low_50_150.png
+    - coins_canny_medium_100_200.png
+    - coins_sobel_k3.png
+    - coins_sobel_k5.png
+    - tabel_parameter_edge.csv
+
+Feature Points:
+--------------------
+  Output directory: 03_featurepoints/output
+  Jumlah file: 33
+  File yang dihasilkan:
+    - astronaut_fast_thresh_10.png
+    - astronaut_fast_thresh_20.png
+    - astronaut_fast_thresh_30.png
+    - astronaut_harris_default.png
+    - astronaut_harris_higher_k.png
+    - astronaut_harris_larger_block.png
+    - astronaut_harris_larger_kernel.png
+    - astronaut_sift_features.png
+    - cameraman_fast_thresh_10.png
+    - cameraman_fast_thresh_20.png
+    - cameraman_fast_thresh_30.png
+    - cameraman_harris_default.png
+    - cameraman_harris_higher_k.png
+    - cameraman_harris_larger_block.png
+    - cameraman_harris_larger_kernel.png
+    - cameraman_sift_features.png
+    - checkerboard_fast_thresh_10.png
+    - checkerboard_fast_thresh_20.png
+    - checkerboard_fast_thresh_30.png
+    - checkerboard_harris_default.png
+    - checkerboard_harris_higher_k.png
+    - checkerboard_harris_larger_block.png
+    - checkerboard_harris_larger_kernel.png
+    - checkerboard_sift_features.png
+    - coins_fast_thresh_10.png
+    - coins_fast_thresh_20.png
+    - coins_fast_thresh_30.png
+    - coins_harris_default.png
+    - coins_harris_higher_k.png
+    - coins_harris_larger_block.png
+    - coins_harris_larger_kernel.png
+    - coins_sift_features.png
+    - statistik_fitur.csv
+
+Geometry:
+--------------------
+  Output directory: 04_geometry/output
+  Jumlah file: 13
+  File yang dihasilkan:
+    - astronaut_geometry_parameters.txt
+    - astronaut_perspective_transformed.png
+    - astronaut_rotated_30deg.png
+    - cameraman_geometry_parameters.txt
+    - cameraman_perspective_transformed.png
+    - cameraman_rotated_30deg.png
+    - checkerboard_geometry_parameters.txt
+    - checkerboard_perspective_transformed.png
+    - checkerboard_rotated_30deg.png
+    - coins_geometry_parameters.txt
+    - coins_perspective_transformed.png
+    - coins_rotated_30deg.png
+    - tabel_parameter_geometry.csv
+
+CATATAN:
+- Pastikan semua gambar standar diproses dengan benar
+- Periksa file CSV untuk parameter dan statistik
+- Gunakan output ini untuk membuat laporan PDF

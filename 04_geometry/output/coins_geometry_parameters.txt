@@ -1,0 +1,30 @@
+--- Parameter Transformasi Geometri ---
+
+Gambar Sumber: coins
+Dimensi Gambar: 384 x 303
+
+1. Transformasi Perspektif:
+Titik Sumber:
+[[  0.   0.]
+ [383.   0.]
+ [  0. 302.]
+ [383. 302.]]
+
+Titik Tujuan:
+[[ 57.6   45.45]
+ [326.4   30.3 ]
+ [ 19.2  272.7 ]
+ [364.8  257.55]]
+
+Matriks Transformasi Perspektif:
+[[ 6.89295079e-01 -1.41176464e-01  5.75999985e+01]
+ [-4.07195507e-02  5.53296675e-01  4.54500008e+01]
+ [-3.83964015e-05 -7.30424610e-04  1.00000000e+00]]
+
+2. Transformasi Rotasi:
+Sudut Rotasi: 30 derajat
+Pusat Rotasi: (192, 151)
+Matriks Rotasi:
+[[  0.8660254    0.5        -49.77687753]
+ [ -0.5          0.8660254  116.23016403]]
+

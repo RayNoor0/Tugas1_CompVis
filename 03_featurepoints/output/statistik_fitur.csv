@@ -1,0 +1,33 @@
+Image Source,Feature Detector,Detected Points Count,Parameters,Output Filename
+cameraman,Harris default,1010,"blockSize=2, ksize=3, k=0.04",cameraman_harris_default.png
+cameraman,Harris larger_block,2003,"blockSize=3, ksize=3, k=0.04",cameraman_harris_larger_block.png
+cameraman,Harris larger_kernel,954,"blockSize=2, ksize=5, k=0.04",cameraman_harris_larger_kernel.png
+cameraman,Harris higher_k,771,"blockSize=2, ksize=3, k=0.06",cameraman_harris_higher_k.png
+cameraman,SIFT,791,default SIFT parameters,cameraman_sift_features.png
+cameraman,FAST thresh_10,6155,threshold = 10,cameraman_fast_thresh_10.png
+cameraman,FAST thresh_20,2888,threshold = 20,cameraman_fast_thresh_20.png
+cameraman,FAST thresh_30,1247,threshold = 30,cameraman_fast_thresh_30.png
+coins,Harris default,1879,"blockSize=2, ksize=3, k=0.04",coins_harris_default.png
+coins,Harris larger_block,2425,"blockSize=3, ksize=3, k=0.04",coins_harris_larger_block.png
+coins,Harris larger_kernel,1119,"blockSize=2, ksize=5, k=0.04",coins_harris_larger_kernel.png
+coins,Harris higher_k,1610,"blockSize=2, ksize=3, k=0.06",coins_harris_higher_k.png
+coins,SIFT,655,default SIFT parameters,coins_sift_features.png
+coins,FAST thresh_10,3470,threshold = 10,coins_fast_thresh_10.png
+coins,FAST thresh_20,1971,threshold = 20,coins_fast_thresh_20.png
+coins,FAST thresh_30,1107,threshold = 30,coins_fast_thresh_30.png
+checkerboard,Harris default,588,"blockSize=2, ksize=3, k=0.04",checkerboard_harris_default.png
+checkerboard,Harris larger_block,1274,"blockSize=3, ksize=3, k=0.04",checkerboard_harris_larger_block.png
+checkerboard,Harris larger_kernel,1470,"blockSize=2, ksize=5, k=0.04",checkerboard_harris_larger_kernel.png
+checkerboard,Harris higher_k,588,"blockSize=2, ksize=3, k=0.06",checkerboard_harris_higher_k.png
+checkerboard,SIFT,120,default SIFT parameters,checkerboard_sift_features.png
+checkerboard,FAST thresh_10,392,threshold = 10,checkerboard_fast_thresh_10.png
+checkerboard,FAST thresh_20,392,threshold = 20,checkerboard_fast_thresh_20.png
+checkerboard,FAST thresh_30,196,threshold = 30,checkerboard_fast_thresh_30.png
+astronaut,Harris default,1708,"blockSize=2, ksize=3, k=0.04",astronaut_harris_default.png
+astronaut,Harris larger_block,3380,"blockSize=3, ksize=3, k=0.04",astronaut_harris_larger_block.png
+astronaut,Harris larger_kernel,1473,"blockSize=2, ksize=5, k=0.04",astronaut_harris_larger_kernel.png
+astronaut,Harris higher_k,1479,"blockSize=2, ksize=3, k=0.06",astronaut_harris_higher_k.png
+astronaut,SIFT,1105,default SIFT parameters,astronaut_sift_features.png
+astronaut,FAST thresh_10,3688,threshold = 10,astronaut_fast_thresh_10.png
+astronaut,FAST thresh_20,1872,threshold = 20,astronaut_fast_thresh_20.png
+astronaut,FAST thresh_30,1110,threshold = 30,astronaut_fast_thresh_30.png

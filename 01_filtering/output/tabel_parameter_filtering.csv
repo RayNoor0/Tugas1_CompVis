@@ -1,0 +1,37 @@
+Image Source,Filter Type,Parameters,Output Filename
+cameraman,Gaussian Blur,"Kernel Size = (3, 3), Sigma = 0 (auto)",cameraman_gaussian_3x3.png
+cameraman,Gaussian Blur,"Kernel Size = (5, 5), Sigma = 0 (auto)",cameraman_gaussian_5x5.png
+cameraman,Gaussian Blur,"Kernel Size = (7, 7), Sigma = 0 (auto)",cameraman_gaussian_7x7.png
+cameraman,Median Blur,Kernel Size = 3x3,cameraman_median_3x3.png
+cameraman,Median Blur,Kernel Size = 5x5,cameraman_median_5x5.png
+cameraman,Median Blur,Kernel Size = 7x7,cameraman_median_7x7.png
+cameraman,Sobel X,"ksize = 3, dx = 1, dy = 0",cameraman_sobel_x.png
+cameraman,Sobel Y,"ksize = 3, dx = 0, dy = 1",cameraman_sobel_y.png
+cameraman,Sobel Magnitude,Magnitude of X and Y gradients,cameraman_sobel_magnitude.png
+coins,Gaussian Blur,"Kernel Size = (3, 3), Sigma = 0 (auto)",coins_gaussian_3x3.png
+coins,Gaussian Blur,"Kernel Size = (5, 5), Sigma = 0 (auto)",coins_gaussian_5x5.png
+coins,Gaussian Blur,"Kernel Size = (7, 7), Sigma = 0 (auto)",coins_gaussian_7x7.png
+coins,Median Blur,Kernel Size = 3x3,coins_median_3x3.png
+coins,Median Blur,Kernel Size = 5x5,coins_median_5x5.png
+coins,Median Blur,Kernel Size = 7x7,coins_median_7x7.png
+coins,Sobel X,"ksize = 3, dx = 1, dy = 0",coins_sobel_x.png
+coins,Sobel Y,"ksize = 3, dx = 0, dy = 1",coins_sobel_y.png
+coins,Sobel Magnitude,Magnitude of X and Y gradients,coins_sobel_magnitude.png
+checkerboard,Gaussian Blur,"Kernel Size = (3, 3), Sigma = 0 (auto)",checkerboard_gaussian_3x3.png
+checkerboard,Gaussian Blur,"Kernel Size = (5, 5), Sigma = 0 (auto)",checkerboard_gaussian_5x5.png
+checkerboard,Gaussian Blur,"Kernel Size = (7, 7), Sigma = 0 (auto)",checkerboard_gaussian_7x7.png
+checkerboard,Median Blur,Kernel Size = 3x3,checkerboard_median_3x3.png
+checkerboard,Median Blur,Kernel Size = 5x5,checkerboard_median_5x5.png
+checkerboard,Median Blur,Kernel Size = 7x7,checkerboard_median_7x7.png
+checkerboard,Sobel X,"ksize = 3, dx = 1, dy = 0",checkerboard_sobel_x.png
+checkerboard,Sobel Y,"ksize = 3, dx = 0, dy = 1",checkerboard_sobel_y.png
+checkerboard,Sobel Magnitude,Magnitude of X and Y gradients,checkerboard_sobel_magnitude.png
+astronaut,Gaussian Blur,"Kernel Size = (3, 3), Sigma = 0 (auto)",astronaut_gaussian_3x3.png
+astronaut,Gaussian Blur,"Kernel Size = (5, 5), Sigma = 0 (auto)",astronaut_gaussian_5x5.png
+astronaut,Gaussian Blur,"Kernel Size = (7, 7), Sigma = 0 (auto)",astronaut_gaussian_7x7.png
+astronaut,Median Blur,Kernel Size = 3x3,astronaut_median_3x3.png
+astronaut,Median Blur,Kernel Size = 5x5,astronaut_median_5x5.png
+astronaut,Median Blur,Kernel Size = 7x7,astronaut_median_7x7.png
+astronaut,Sobel X,"ksize = 3, dx = 1, dy = 0",astronaut_sobel_x.png
+astronaut,Sobel Y,"ksize = 3, dx = 0, dy = 1",astronaut_sobel_y.png
+astronaut,Sobel Magnitude,Magnitude of X and Y gradients,astronaut_sobel_magnitude.png
