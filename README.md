@@ -1,8 +1,8 @@
 # Aplikasi Sederhana Integratif Computer Vision
 ## Materi Minggu 3-6: Image Filtering, Edge Detection, Feature Points, dan Camera Geometry
 
-**Nama:** [Nama Lengkap Anda]  
-**NIM:** [NIM Anda]  
+**Nama:** Rayendra Althaf Taraka Noor
+**NIM:** 13522107
 **Kelas:** IF5152 Computer Vision
 
 ---
@@ -168,7 +168,3 @@ Jika mengalami masalah atau memiliki pertanyaan:
 2. Baca `SUMMARY_REPORT.txt` untuk detail output
 3. Jalankan modul individu untuk debugging
 4. Pastikan semua dependencies terinstall
-
----
-
-**Catatan:** Aplikasi ini dibuat sesuai dengan spesifikasi tugas IF5152 Computer Vision. Semua output telah dirancang untuk memenuhi kriteria penilaian yang ditetapkan.
