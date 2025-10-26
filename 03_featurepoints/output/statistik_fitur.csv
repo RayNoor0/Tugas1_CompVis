@@ -15,13 +15,13 @@ coins,SIFT,655,default SIFT parameters,coins_sift_features.png
 coins,FAST thresh_10,3470,threshold = 10,coins_fast_thresh_10.png
 coins,FAST thresh_20,1971,threshold = 20,coins_fast_thresh_20.png
 coins,FAST thresh_30,1107,threshold = 30,coins_fast_thresh_30.png
-checkerboard,Harris default,588,"blockSize=2, ksize=3, k=0.04",checkerboard_harris_default.png
-checkerboard,Harris larger_block,1274,"blockSize=3, ksize=3, k=0.04",checkerboard_harris_larger_block.png
-checkerboard,Harris larger_kernel,1470,"blockSize=2, ksize=5, k=0.04",checkerboard_harris_larger_kernel.png
-checkerboard,Harris higher_k,588,"blockSize=2, ksize=3, k=0.06",checkerboard_harris_higher_k.png
-checkerboard,SIFT,120,default SIFT parameters,checkerboard_sift_features.png
-checkerboard,FAST thresh_10,392,threshold = 10,checkerboard_fast_thresh_10.png
-checkerboard,FAST thresh_20,392,threshold = 20,checkerboard_fast_thresh_20.png
+checkerboard,Harris default,441,"blockSize=2, ksize=3, k=0.04",checkerboard_harris_default.png
+checkerboard,Harris larger_block,784,"blockSize=3, ksize=3, k=0.04",checkerboard_harris_larger_block.png
+checkerboard,Harris larger_kernel,1029,"blockSize=2, ksize=5, k=0.04",checkerboard_harris_larger_kernel.png
+checkerboard,Harris higher_k,441,"blockSize=2, ksize=3, k=0.06",checkerboard_harris_higher_k.png
+checkerboard,SIFT,134,default SIFT parameters,checkerboard_sift_features.png
+checkerboard,FAST thresh_10,196,threshold = 10,checkerboard_fast_thresh_10.png
+checkerboard,FAST thresh_20,196,threshold = 20,checkerboard_fast_thresh_20.png
 checkerboard,FAST thresh_30,196,threshold = 30,checkerboard_fast_thresh_30.png
 astronaut,Harris default,1708,"blockSize=2, ksize=3, k=0.04",astronaut_harris_default.png
 astronaut,Harris larger_block,3380,"blockSize=3, ksize=3, k=0.04",astronaut_harris_larger_block.png

@@ -89,7 +89,7 @@ def main():
     standard_images = [
         ("cameraman", data.camera()),
         ("coins", data.coins()),
-        ("checkerboard", (data.checkerboard() * 255).astype(np.uint8)),
+        ("checkerboard", data.checkerboard() * 255),
         ("astronaut", cv2.cvtColor(data.astronaut(), cv2.COLOR_RGB2GRAY))
     ]
 

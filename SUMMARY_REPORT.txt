@@ -1,7 +1,7 @@
 LAPORAN RINGKASAN APLIKASI COMPUTER VISION
 ==================================================
 
-Tanggal Eksekusi: 2025-10-26 11:07:19
+Tanggal Eksekusi: 2025-10-26 11:33:48
 
 Filtering:
 --------------------
@@ -147,7 +147,7 @@ Feature Points:
 Geometry:
 --------------------
   Output directory: 04_geometry/output
-  Jumlah file: 16
+  Jumlah file: 17
   File yang dihasilkan:
     - astronaut_geometry_parameters.txt
     - astronaut_perspective_transformed.png
@@ -155,6 +155,7 @@ Geometry:
     - cameraman_geometry_parameters.txt
     - cameraman_perspective_transformed.png
     - cameraman_rotated_30deg.png
+    - checkerboard_calibration_corners.png
     - checkerboard_geometry_parameters.txt
     - checkerboard_perspective_transformed.png
     - checkerboard_rotated_30deg.png
